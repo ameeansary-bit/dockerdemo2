@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 
-CMD ["echo","Updated by CodeBuild Pipeline"]
+CMD ["echo","Built from dockerdemo2"]
